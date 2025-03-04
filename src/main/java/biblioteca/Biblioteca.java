@@ -107,7 +107,7 @@ import java.util.List;
         }
         // TODO: Documentar este metodo
         /**
-         * Busca todos los libros de un autor determinado.
+         * Busca todos los libros de un autor determinado
          * @param autor autor de lo libros que se desean buscar.
          * @return lista de libros de ese autor. Si no se encuentran libros, la lista será {@code null}.
          * @test Comprobar la lista de libros devuelta para un autor existente.
