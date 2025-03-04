@@ -1,7 +1,6 @@
-package Biblioteca;
+package biblioteca;
 
 public class Libro {
-    package biblioteca;
 
     /**
      * La clase Libro representa un libro en la biblioteca. Tiene información sobre el título,
@@ -9,8 +8,6 @@ public class Libro {
      * @author Bea.Walino
      * @version 04.03.2025
      */
-    public class Libro {
-
         // TODO: Documentar estos atributos
         /**
          * título del libro.
@@ -83,4 +80,3 @@ public class Libro {
         }
     }
 
-}
