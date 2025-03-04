@@ -36,7 +36,6 @@ public class Libro {
             this.autor = autor;
             this.anioPublicacion = anioPublicacion;
         }
-
         /**
          * Devuelve el título del libro.
          * @return título del libro.
